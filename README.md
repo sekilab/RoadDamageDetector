@@ -1,4 +1,5 @@
 # RoadDamageDetector
+This page introduces the road damage dataset we created.
 # Road Damage Dataset
 ## The structure of Road Damage Dataset
 Road Damage Dataset contains trained models and Annotated images.
@@ -31,5 +32,15 @@ In this tutorial, we will show you:
 - The statistical information of the dataset
 - How to evaluate your result
 
-If you have something wrong, please contact :
+## Privacy matters
+eigo no check ga owattara kaku
+
+## License
+cc by 4
+
+## Citation
+If you use or find out our dataset useful, please cite our paper:
+
+
+If you have something to ask us about the dataset, please contact :
 `maedahi[at]iis.u-tokyo.ac.jp`
