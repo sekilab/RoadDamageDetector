@@ -1,5 +1,7 @@
 # RoadDamageDetector
 This page introduces the road damage dataset we created.
+intro wo kaku
+
 # Road Damage Dataset
 ## The structure of Road Damage Dataset
 Road Damage Dataset contains trained models and Annotated images.
@@ -30,7 +32,9 @@ In this tutorial, we will show you:
 - How to download Road Crack Dataset
 - The structure of the Dataset
 - The statistical information of the dataset
-- How to evaluate your result
+- How to use trained models.
+
+Please check [RoadDamageDatasetTutorial.ipynb](https://github.com/sekilab/RoadDamageDetector/blob/master/RoadDamageDatasetTutorial.ipynb).
 
 ## Privacy matters
 eigo no check ga owattara kaku
