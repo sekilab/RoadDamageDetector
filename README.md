@@ -36,7 +36,7 @@ In this tutorial, we will show you:
 eigo no check ga owattara kaku
 
 ## License
-cc by 4
+Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
 
 ## Citation
 If you use or find out our dataset useful, please cite our paper:
