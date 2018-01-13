@@ -1,5 +1,6 @@
 # RoadDamageDetector
 This page introduces the road damage dataset we created.
+
 Research on damage detection of road surfaces using image processing techniques has been actively conducted achieving considerably high detection accuracies.
 However, many studies only focus on the detection of the presence or absence of damage. However, in a real-world scenario, when the road managers from a governing body needs to repair such damage, they need to know the type of damage clearly to take effective action. In addition, in many of these previous studies, the researchers acquire their own data using different methods. Hence, there is no uniform road damage dataset available openly, leading to the absence of a benchmark for road damage detection.
 This study makes three contributions to address these issues.
