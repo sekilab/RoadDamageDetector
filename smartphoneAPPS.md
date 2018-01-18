@@ -1,0 +1,56 @@
+# RoadCrackDetector
+
+## What is RoadCrackDetector?
+RoadCrackDetector is a smartphone apps that detects damages on the road by utilizing deep neural network model.
+
+スマートフォン上で深層学習モデルを動かすことで、道路路面の損傷画像を検出するアプリケーションです。
+
+## How to use RoadCrackDetector?
+### Basic Functions / 基本機能
+- Detect Road Damages when the car is running
+- Stop processing automatically when the car is stopping
+
+- 車が走行している場合のみ路面損傷を検出
+- 車が停止している場合は、自動的に処理が停止
+
+### Instalation location / 設置場所
+- Car dashboard
+- 一般的な車のダッシュボード
+
+<img alt="img1" src="./images/installation2.png" width="320px"/>
+<img alt="img2" src="./images/installation1.png" width="320px"/>
+
+
+## How to train the Crack Detection model?
+(March 2017)
+We used [yolo detector](https://pjreddie.com/darknet/yolo/ "yolo web") for training the model.
+Trained model with more than 30,000 road images with cracks can be accessed here.
+This application can just detect "damages".
+
+私たちはYOLOを用いて、損傷を含む道路画像30,000枚で損傷判定モデルを学習させました。
+
+(September 2017)
+We used [yolo detector](https://pjreddie.com/darknet/yolo/ "yolo web") for training the model.
+Trained model with more than 9,053 road images with cracks can be accessed here.
+This application can just detect "damages" and classify "damage types".
+
+
+### Android application
+Apps with tiny YOLO(March 2017)
+[RoadCrackDetector.apk(140MB)](./apk/RoadCrackDetector.apk)
+(Android 7.0 or higher is required)
+
+Apps with MobileNet(September 2017)
+[RoadCrackDetector.apk(140MB)](./apk/RoadCrackDetector.apk)
+(Android 7.0 or higher is required)
+
+
+### Experiments in some local governments in Japan(August 2017)
+We did road inspection with our apps in Toga villege, please check [our website](http://sekilab.iis.u-tokyo.ac.jp/archives/category/news#post-1882)!
+You can also watch the movie in the experiment as a demo([demo movie](https://youtu.be/P74Hl0vr1-Y))
+
+富山県の利賀村にて、本アプリケーションを用いて実際に路面点検を実施しました ([参考](http://sekilab.iis.u-tokyo.ac.jp/archives/category/news#post-1882))。<br>
+実験の様子を[デモ動画](https://youtu.be/P74Hl0vr1-Y)として公開していますので、ご覧ください。
+
+
+
