@@ -42,6 +42,10 @@ In this tutorial, we will show you:
 
 Please check [RoadDamageDatasetTutorial.ipynb](https://github.com/sekilab/RoadDamageDetector/blob/master/RoadDamageDatasetTutorial.ipynb).
 
+## Smartphone Apps
+We also make our smartphone apps publicly available.
+Please check [here](https://github.com/sekilab/RoadDamageDetector/blob/master/smartphoneAPPS.md).
+
 ## Privacy matters
 Our dataset is openly accessible by the public. Therefore, considering issues with privacy, based on visual inspection, when a person's face or a car license plate are clearly reflected in the image, they are blurred out.
 
