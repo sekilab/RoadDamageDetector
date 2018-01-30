@@ -57,7 +57,8 @@ Images on this dataset are available under the [Creative Commons Attribution-Sha
 
 ## Citation
 If you use or find out our dataset useful, please cite [our paper](https://arxiv.org/abs/1801.09454):
-Cite as: arXiv:1801.09454 [cs.CV]
+
+arXiv:1801.09454 [cs.CV]
 (or arXiv:1801.09454v1 [cs.CV] for this version)
 
 
