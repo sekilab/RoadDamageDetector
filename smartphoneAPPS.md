@@ -30,7 +30,7 @@ This application can just detect "damages" and classify "damage types".
 
 ### Android application
 Apps with tiny YOLO(March 2017)
-[RoadCrackDetector.apk(140MB)](./apk/RoadCrackDetector.apk)
+[RoadCrackDetector.apk(140MB)](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/tensorflow_demo_20171212.apk)
 (Android 7.0 or higher is required)
 
 Apps with MobileNet(September 2017)
