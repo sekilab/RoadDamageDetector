@@ -1,5 +1,6 @@
 # RoadDamageDetector
-This page introduces the road damage dataset we created.
+
+## Abstruct
 
 Research on damage detection of road surfaces using image processing techniques has been actively conducted achieving considerably high detection accuracies.
 However, many studies only focus on the detection of the presence or absence of damage. However, in a real-world scenario, when the road managers from a governing body needs to repair such damage, they need to know the type of damage clearly to take effective action. In addition, in many of these previous studies, the researchers acquire their own data using different methods. Hence, there is no uniform road damage dataset available openly, leading to the absence of a benchmark for road damage detection.
@@ -7,6 +8,8 @@ This study makes three contributions to address these issues.
 First, to the best of our knowledge, for the first time, a large-scale road damage dataset is prepared. This dataset is composed of 9,053 road damage images captured with a smartphone installed on a car, with 15,435 instances of road surface damage included in these road images. These images are captured in a wide variety of weather and illuminance conditions. In each image, the bounding box representing the location of the damage and the type of damage are annotated.
 Next, we use the state-of-the-art object detection method using convolutional neural networks to train the damage detection model with our dataset, and compare the accuracy and runtime speed on both, a GPU server and a smartphone. Finally, we show that the type of damage can be classified into eight types with high accuracy by applying the proposed object detection method.
 The road damage dataset, our experimental results, and the developed smartphone application used in this study are made publicly available.
+This page introduces the road damage dataset we created.
+
 
 ## Citation
 If you use or find out our dataset useful, please cite [our paper](https://arxiv.org/abs/1801.09454):
