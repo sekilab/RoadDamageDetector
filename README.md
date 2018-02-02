@@ -14,8 +14,14 @@ This page introduces the road damage dataset we created.
 ## Citation
 If you use or find out our dataset useful, please cite [our paper](https://arxiv.org/abs/1801.09454):
 
-arXiv:1801.09454 [cs.CV]
-(or arXiv:1801.09454v1 [cs.CV] for this version)
+<font color="Red">arXiv:1801.09454 [cs.CV]</font>
+
+@misc{1801.09454,
+Author = {Hiroya Maeda and Yoshihide Sekimoto and Toshikazu Seto and Takehiro Kashiyama and Hiroshi Omata},
+Title = {Road Damage Detection Using Deep Neural Networks with Images Captured Through a Smartphone},
+Year = {2018},
+Eprint = {arXiv:1801.09454},
+}
 
 
 # Road Damage Dataset
