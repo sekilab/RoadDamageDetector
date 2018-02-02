@@ -8,6 +8,13 @@ First, to the best of our knowledge, for the first time, a large-scale road dama
 Next, we use the state-of-the-art object detection method using convolutional neural networks to train the damage detection model with our dataset, and compare the accuracy and runtime speed on both, a GPU server and a smartphone. Finally, we show that the type of damage can be classified into eight types with high accuracy by applying the proposed object detection method.
 The road damage dataset, our experimental results, and the developed smartphone application used in this study are made publicly available.
 
+## Citation
+If you use or find out our dataset useful, please cite [our paper](https://arxiv.org/abs/1801.09454):
+
+arXiv:1801.09454 [cs.CV]
+(or arXiv:1801.09454v1 [cs.CV] for this version)
+
+
 # Road Damage Dataset
 ## The structure of Road Damage Dataset
 Road Damage Dataset contains trained models and Annotated images.
@@ -53,13 +60,6 @@ Our dataset is openly accessible by the public. Therefore, considering issues wi
 ## License
 Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
 <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />
-
-
-## Citation
-If you use or find out our dataset useful, please cite [our paper](https://arxiv.org/abs/1801.09454):
-
-arXiv:1801.09454 [cs.CV]
-(or arXiv:1801.09454v1 [cs.CV] for this version)
 
 
 If you have something to ask us about the dataset, please contact :
