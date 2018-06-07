@@ -1,7 +1,7 @@
 # RoadDamageDetector
 
 ## News
-Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) is underway. Please confirm here[https://bdc2018.mycityreport.net/]! The registration is up to June 11.
+Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) is underway. Please confirm [here](https://bdc2018.mycityreport.net/)! The registration is up to June 11.
 
 ## Citation
 If you use or find out our dataset useful, please cite [our paper](https://arxiv.org/abs/1801.09454):
