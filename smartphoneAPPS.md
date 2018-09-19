@@ -29,12 +29,8 @@ Trained model with 9,053 road images with damages can be accessed [here](https:/
 This application can just detect "damages" and classify "damage types".
 
 ### Android application
-Apps with tiny YOLO(March 2017)
-[RoadCrackDetector.apk(140MB)](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/tensorflow_demo_20171212.apk)
-(Android 7.0 or higher is required)
-
-Apps with MobileNet(September 2017)
-[RoadCrackDetector.apk(240MB)](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/RoadDamageDetector_SSD.apk)
+Apps with MobileNet(September 2018)
+[RoadCrackDetector.apk(26MB)](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/mcr111.apk)
 (Android 7.0 or higher is required)
 
 ### Experiments in some local governments in Japan(August 2017)
