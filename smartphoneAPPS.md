@@ -36,9 +36,6 @@ Apps with MobileNet(September 2018)
 My app saves 2 kinds of files in 'ExternalStorage/Android/data/org.utokyo.sekilab.mcr/files'.
 Location file contains GPS coordinate every 3 seconds. Damage file contains road damage data and image data.
 
-2.damage file
- 
-
 ### Experiments in some local governments in Japan(August 2017)
 We did road inspection with our apps in Toga villege, please check [our website](http://sekilab.iis.u-tokyo.ac.jp/archives/category/news#post-1882)!
 You can also watch the movie in the experiment as a demo([demo movie](https://youtu.be/P74Hl0vr1-Y))
