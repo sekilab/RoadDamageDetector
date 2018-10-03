@@ -33,7 +33,13 @@ Apps with MobileNet(September 2018)
 [RoadCrackDetector.apk(26MB)](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/mcr111_open.apk)
 (Android 7.0 or higher is required)
 
-Damage data is saved in 'ExternalStorage/Android/data/org.utokyo.sekilab.mcr/files'
+Damage data is saved in 'ExternalStorage/Android/data/org.utokyo.sekilab.mcr/files'.
+
+Location file has GPS coordinate every 3 seconds.
+Damage file has road damage information and image.
+
+2.damage file
+ 
 
 ### Experiments in some local governments in Japan(August 2017)
 We did road inspection with our apps in Toga villege, please check [our website](http://sekilab.iis.u-tokyo.ac.jp/archives/category/news#post-1882)!
