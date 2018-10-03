@@ -32,6 +32,7 @@ This application can just detect "damages" and classify "damage types".
 Apps with MobileNet(September 2018)
 [RoadCrackDetector.apk(26MB)](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/mcr111_open.apk)
 (Android 7.0 or higher is required)
+
 Damage data is saved in 'ExternalStorage/Android/data/org.utokyo.sekilab.mcr/files'
 
 ### Experiments in some local governments in Japan(August 2017)
