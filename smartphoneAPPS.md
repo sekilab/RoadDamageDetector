@@ -29,7 +29,7 @@ Trained model with 9,053 road images with damages can be accessed [here](https:/
 This application can just detect "damages" and classify "damage types".
 
 ### Android application
-Apps with MobileNet(Octorber 2018)
+Apps with MobileNet+SDD(Octorber 2018)
 [RoadCrackDetector.apk(26MB)](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/mcr111_open.apk)
 (Android 7.1 or higher is required)
 
