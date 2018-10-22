@@ -29,11 +29,11 @@ Trained model with 9,053 road images with damages can be accessed [here](https:/
 This application can just detect "damages" and classify "damage types".
 
 ### Android application
-Apps with MobileNet(September 2018)
+Apps with MobileNet(Octorber 2018)
 [RoadCrackDetector.apk(26MB)](https://s3-ap-northeast-1.amazonaws.com/sekilab-students/maeda/kashiyama/mcr111_open.apk)
-(Android 7.0 or higher is required)
+(Android 7.1 or higher is required)
 
-My app saves 2 kinds of files in 'ExternalStorage/Android/data/org.utokyo.sekilab.mcr/files'.
+The app saves 2 kinds of files in 'ExternalStorage/Android/data/org.utokyo.sekilab.mcr/files'.
 Location file contains GPS coordinate every 3 seconds. Damage file contains road damage data and image data.
 
 ### Experiments in some local governments in Japan(August 2017)
