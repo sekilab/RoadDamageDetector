@@ -5,6 +5,7 @@ Road damage detection and classification challenge (one of the IEEE Bigdata Cup 
 
 ## Citation
 **[Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667)**
+
 If you use or find out our dataset useful, please cite [our paper](https://doi.org/10.1111/mice.12387):
 
 Maeda, H., Sekimoto, Y., Seto, T., Kashiyama, T., & Omata, H. 
@@ -17,6 +18,7 @@ journal={Computer-Aided Civil and Infrastructure Engineering}, publisher={Wiley 
 
 
 **arXiv:1801.09454 [cs.CV]**
+
 arXiv version is [here](https://arxiv.org/abs/1801.09454).
 
 
