@@ -4,9 +4,8 @@
 Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) is underway. Please confirm [here](https://bdc2018.mycityreport.net/)! The registration is up to June 11.
 
 ## Citation
-**[Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667)**
 
-If you use or find out our dataset useful, please cite [our paper](https://doi.org/10.1111/mice.12387):
+If you use or find out our dataset useful, please cite [our paper](https://doi.org/10.1111/mice.12387) in the journal of [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667):
 
 Maeda, H., Sekimoto, Y., Seto, T., Kashiyama, T., & Omata, H. 
 Road Damage Detection and Classification Using Deep Neural Networks with Smartphone Images. 
@@ -16,8 +15,6 @@ Computer‐Aided Civil and Infrastructure Engineering.
 author={Maeda, Hiroya and Sekimoto, Yoshihide and Seto, Toshikazu and Kashiyama, Takehiro and Omata, Hiroshi}, 
 journal={Computer-Aided Civil and Infrastructure Engineering}, publisher={Wiley Online Library} }
 
-
-**arXiv:1801.09454 [cs.CV]**
 
 arXiv version is [here](https://arxiv.org/abs/1801.09454).
 
