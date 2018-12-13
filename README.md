@@ -1,7 +1,11 @@
 # RoadDamageDetector
 
 ## News
-Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) is underway. Please confirm [here](https://bdc2018.mycityreport.net/)! The registration is up to June 11.
+2018-12-10
+Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
+
+2018-12-??
+RoadDamageDataset_v2 (1.7GB) is available now! We re-labeled all the RoadDamageDataset_v1 (1.7GB) in order to improve the accuracy of annotation. 
 
 ## Citation
 
