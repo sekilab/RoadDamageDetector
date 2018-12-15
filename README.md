@@ -36,7 +36,6 @@ This page introduces the road damage dataset we created.
 ## The structure of Road Damage Dataset
 Road Damage Dataset contains trained models and Annotated images.
 Annotated images are presented as the same format to [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/).
- ' 
 - trainedModels
     - SSD Inception V2
     - SSD MobileNet
@@ -51,7 +50,7 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
     - Sumida
     - Nagakute
     - Numazu
- ' 
+
 
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
