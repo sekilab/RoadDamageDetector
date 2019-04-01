@@ -60,7 +60,6 @@ Please pay attention to the disk capacity when downloading.
 
 ## Download Road Damage Dataset Ver. 2
 
-- [RoadDamageDataset_v2 (2.1GB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/RoadDamageDataset_v2.tar.gz)
 
 ### What's new in RoadDamageDataset_v2?
 The definition of the label was changed.
