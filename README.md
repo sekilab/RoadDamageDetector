@@ -3,7 +3,7 @@
 ## News
 [2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
 
-[2018-12-??]: RoadDamageDataset_v2 (1.7GB) is available now! We re-labeled all the RoadDamageDataset_v1 (1.7GB) in order to improve the accuracy of annotation. 
+[2019-04-01]: RoadDamageDataset_v2 (2.1GB) is available now! We re-labeled all the RoadDamageDataset_v1 (1.7GB) in order to improve the accuracy of annotation. 
 
 ## Citation
 
@@ -67,6 +67,7 @@ The definition of the label was changed.
 - D01 was merged into D00.
 - D01 and D11 were abolished.
 - D50(Manhole and Handhole) was added.
+- Some labels have been added or corrected.
 
 ## Dataset Tutorial
 We also created the tutorial of Road Damage Dataset.
