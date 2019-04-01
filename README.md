@@ -60,14 +60,14 @@ Please pay attention to the disk capacity when downloading.
 
 ## Download Road Damage Dataset Ver. 2
 
-- [RoadDamageDataset_v2 (1.7GB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/RoadDamageDataset_v2.tar.gz)
+- [RoadDamageDataset_v2 (2.1GB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/RoadDamageDataset_v2.tar.gz)
 
 ### What's new in RoadDamageDataset_v2?
 The definition of the label was changed.
 - D01 was merged into D00.
 - D01 and D11 were abolished.
 - D50(Manhole and Handhole) was added.
-- Some labels have been added or corrected.
+Some labels have been added or corrected.
 
 ## Dataset Tutorial
 We also created the tutorial of Road Damage Dataset.
