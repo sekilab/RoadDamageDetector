@@ -67,6 +67,7 @@ The definition of the label was changed.
 - D01 was merged into D00.
 - D01 and D11 were abolished.
 - D50(Manhole and Handhole) was added.
+
 Some labels have been added or corrected.
 
 ## Dataset Tutorial
