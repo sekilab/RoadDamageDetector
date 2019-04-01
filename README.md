@@ -52,16 +52,21 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
     - Numazu
 
 
-## Download Road Damage Dataset
+## Download Road Damage Dataset Ver. 1
 Please pay attention to the disk capacity when downloading.
 - [trainedModels (70MB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/trainedModels.tar.gz)
 
 - [RoadDamageDataset_v1 (1.7GB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/RoadDamageDataset.tar.gz)
 
-- [RoadDamageDataset_v2 (1.7GB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/RoadDamageDataset.tar.gz)
+## Download Road Damage Dataset Ver. 2
+
+- [RoadDamageDataset_v2 (1.7GB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/RoadDamageDataset_v2.tar.gz)
 
 ### What's new in RoadDamageDataset_v2?
-
+The definition of the label was changed.
+- D01 was merged into D00.
+- D01 and D11 were abolished.
+- D50(Manhole and Handhole) was added.
 
 ## Dataset Tutorial
 We also created the tutorial of Road Damage Dataset.
