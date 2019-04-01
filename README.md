@@ -3,8 +3,6 @@
 ## News
 [2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
 
-[2019-04-01]: RoadDamageDataset_v2 (2.1GB) is available now! We re-labeled all the RoadDamageDataset_v1 (1.7GB) in order to improve the accuracy of annotation. 
-
 ## Citation
 
 If you use or find out our dataset useful, please cite [our paper](https://doi.org/10.1111/mice.12387) in the journal of [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667):
@@ -58,16 +56,6 @@ Please pay attention to the disk capacity when downloading.
 
 - [RoadDamageDataset_v1 (1.7GB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/RoadDamageDataset.tar.gz)
 
-## Download Road Damage Dataset Ver. 2
-
-
-### What's new in RoadDamageDataset_v2?
-The definition of the label was changed.
-- D01 was merged into D00.
-- D01 and D11 were abolished.
-- D50(Manhole and Handhole) was added.
-
-Some labels have been added or corrected.
 
 ## Dataset Tutorial
 We also created the tutorial of Road Damage Dataset.
