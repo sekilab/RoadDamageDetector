@@ -52,9 +52,9 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
 
 ## Download Road Damage Dataset Ver. 1
 Please pay attention to the disk capacity when downloading.
-- [trainedModels (70MB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/trainedModels.tar.gz)
+- [trainedModels (70MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/old/trainedModels.tar.gz)
 
-- [RoadDamageDataset_v1 (1.7GB)](https://s3-ap-northeast-1.amazonaws.com/mycityreport/RoadDamageDataset.tar.gz)
+- [RoadDamageDataset_v1 (1.7GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDataset.tar.gz)
 
 
 ## Dataset Tutorial
