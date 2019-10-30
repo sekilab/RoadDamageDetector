@@ -50,7 +50,7 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
     - Numazu
 
 
-## Download Road Damage Dataset Ver. 1
+## Download Road Damage Dataset 2018
 Please pay attention to the disk capacity when downloading.
 - [trainedModels (70MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/old/trainedModels.tar.gz)
 
