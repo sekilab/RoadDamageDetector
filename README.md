@@ -77,15 +77,15 @@ Images on this dataset are available under the [Creative Commons Attribution-Sha
 <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />
 
 
-# Road Damage Dataset 2019 (COMMING SOON)
+# Road Damage Dataset 2019 (COMMING SOON, UNDER REVIEW)
 ## The structure of Road Damage Dataset 
 Road Damage Dataset contains trained models and Annotated images.
 Annotated images are presented as the same format to [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/).
 - trainedModels
-    - SSD Inception V2
+    - SSD Resnet50
     - SSD MobileNet
 - RoadDamageDataset2019 (dataset structure is the same format as PASCAL VOC)
-    - Images: contain images
+    - Images: contain images (JPEG)
     - Annotations:
         - train.txt
         - val.txt
@@ -94,9 +94,9 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
  
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
-- [trainedModels (70MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/old/trainedModels.tar.gz)
+- [trainedModels (70MB)](link)
 
-- [RoadDamageDataset_v1 (1.7GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDataset.tar.gz)
+- [RoadDamageDataset_v1 (1.7GB)](link)
 
 ## Privacy matters
 Our dataset is openly accessible by the public. Therefore, considering issues with privacy, based on visual inspection, when a person's face or a car license plate are clearly reflected in the image, they are blurred out.
