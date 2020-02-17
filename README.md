@@ -51,9 +51,9 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
 
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
-- [trainedModels (70MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/old/trainedModels.tar.gz)
+- [trainedModels (70MB)](link)
 
-- [RoadDamageDataset_v1 (1.7GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDataset.tar.gz)
+- [RoadDamageDataset_v1 (1.7GB)](link)
 
 ## Dataset Tutorial
 We also created the tutorial of Road Damage Dataset.
@@ -79,18 +79,7 @@ Images on this dataset are available under the [Creative Commons Attribution-Sha
 
 # Road Damage Dataset 2019 (COMMING SOON, UNDER REVIEW)
 ## The structure of Road Damage Dataset 
-Road Damage Dataset contains trained models and Annotated images.
-Annotated images are presented as the same format to [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/).
-- trainedModels
-    - SSD Resnet50
-    - SSD MobileNet
-- RoadDamageDataset2019 (dataset structure is the same format as PASCAL VOC)
-    - Images: contain images (JPEG)
-    - Annotations:
-        - train.txt
-        - val.txt
-        - test.txt
-        - xmls: contain xml files of annotation
+Th
  
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
