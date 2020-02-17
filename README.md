@@ -79,13 +79,13 @@ Images on this dataset are available under the [Creative Commons Attribution-Sha
 
 # Road Damage Dataset 2019 (COMMING SOON, UNDER REVIEW)
 ## The structure of Road Damage Dataset 
-Th
+The structure of the Road Damage Dataset 2019 is the same as the previous one: Pascal VOC.
  
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
-- [trainedModels (70MB)](link)
+- [trainedModels (--MB)](link)
 
-- [RoadDamageDataset_v1 (1.7GB)](link)
+- [RoadDamageDataset_2019 (-- GB)](link)
 
 ## Privacy matters
 Our dataset is openly accessible by the public. Therefore, considering issues with privacy, based on visual inspection, when a person's face or a car license plate are clearly reflected in the image, they are blurred out.
