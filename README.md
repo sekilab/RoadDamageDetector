@@ -53,7 +53,7 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
 Please pay attention to the disk capacity when downloading.
 - [trainedModels (70MB)](link)
 
-- [RoadDamageDataset_v1 (1.7GB)](link)
+- [RoadDamageDataset_v1 (1.7GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDataset.tar.gz)
 
 ## Dataset Tutorial
 We also created the tutorial of Road Damage Dataset.
@@ -85,7 +85,7 @@ The structure of the Road Damage Dataset 2019 is the same as the previous one: P
 Please pay attention to the disk capacity when downloading.
 - [trainedModels (--MB)](link)
 
-- [RoadDamageDataset_2019 (-- GB)](link)
+- [RoadDamageDataset_2019 (2.1GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDatasetV2.zip)
 
 ## Privacy matters
 Our dataset is openly accessible by the public. Therefore, considering issues with privacy, based on visual inspection, when a person's face or a car license plate are clearly reflected in the image, they are blurred out.
