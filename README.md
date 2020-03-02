@@ -3,6 +3,8 @@
 ## News
 [2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
 
+[2019-10-16]: Road Damage Dataset was awarded by the GIS Association of Japan. For more information, please check [here](http://www.gisa-japan.org/awards/recipients.html).
+
 ## Citation
 
 If you use or find out our dataset useful, please cite [our paper](https://doi.org/10.1111/mice.12387) in the journal of [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667):
@@ -51,7 +53,7 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
 
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
-- [trainedModels (70MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/03_trainedMoldes/old/trainedModels.tar)
+- [trainedModels (70MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/03_trainedMoldes/old/trainedModels.tar.gz)
 
 - [RoadDamageDataset_v1 (1.7GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDataset.tar.gz)
 
@@ -64,18 +66,6 @@ In this tutorial, we will show you:
 - How to use trained models.
 
 Please check [RoadDamageDatasetTutorial.ipynb](https://github.com/sekilab/RoadDamageDetector/blob/master/RoadDamageDatasetTutorial.ipynb).
-
-## Smartphone Apps
-We also make our smartphone apps publicly available.
-Please check [here](https://github.com/sekilab/RoadDamageDetector/blob/master/smartphoneAPPS.md).
-
-## Privacy matters
-Our dataset is openly accessible by the public. Therefore, considering issues with privacy, based on visual inspection, when a person's face or a car license plate are clearly reflected in the image, they are blurred out.
-
-## License
-Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
-<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />
-
 
 # Road Damage Dataset 2019 (COMMING SOON, UNDER REVIEW)
 ## The structure of Road Damage Dataset 
