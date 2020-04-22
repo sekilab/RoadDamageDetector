@@ -84,10 +84,10 @@ The structure of the Road Damage Dataset 2019 is the same as the previous one: P
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
 - trainedModels
-  - [Resnet(128MB)]()
-  - [Mobilenet(18MB)]()
+  - [Resnet(128MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/Japan/CACAIE2020/frozen_inference_graph_resnet.pb)
+  - [Mobilenet(18MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/Japan/CACAIE2020/frozen_inference_graph_mobilenet.pb)
 
-- [RoadDamageDataset_2019 (2.1GB)]()
+- [RoadDamageDataset_2019 (2.4GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/Japan/RDD2020_data.tar.gz)
 
 ## Privacy matters
 Our dataset is openly accessible by the public. Therefore, considering issues with privacy, based on visual inspection, when a person's face or a car license plate are clearly reflected in the image, they are blurred out.
