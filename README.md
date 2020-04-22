@@ -1,9 +1,14 @@
 # RoadDamageDetector
 
 ## News
-[2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
+[2020-4-25]: [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) will be held as one of the [IEEE Bigdata Cup](http://bigdataieee.org/BigData2020/). Why not join the data cup!
 
 [2019-10-16]: Road Damage Dataset was awarded by the GIS Association of Japan. For more information, please check [here](http://www.gisa-japan.org/awards/recipients.html).
+
+[2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
+
+
+# Road Damage Dataset 2018
 
 ## Citation
 
@@ -16,7 +21,6 @@ Computer‐Aided Civil and Infrastructure Engineering.
 @article{maedaroad, title={Road Damage Detection and Classification Using Deep Neural Networks with Smartphone Images}, 
 author={Maeda, Hiroya and Sekimoto, Yoshihide and Seto, Toshikazu and Kashiyama, Takehiro and Omata, Hiroshi}, 
 journal={Computer-Aided Civil and Infrastructure Engineering}, publisher={Wiley Online Library} }
-
 
 arXiv version is [here](https://arxiv.org/abs/1801.09454).
 
@@ -32,7 +36,6 @@ The road damage dataset, our experimental results, and the developed smartphone 
 This page introduces the road damage dataset we created.
 
 
-# Road Damage Dataset 2018
 ## The structure of Road Damage Dataset 
 Road Damage Dataset contains trained models and Annotated images.
 Annotated images are presented as the same format to [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/).
@@ -67,15 +70,24 @@ In this tutorial, we will show you:
 
 Please check [RoadDamageDatasetTutorial.ipynb](https://github.com/sekilab/RoadDamageDetector/blob/master/RoadDamageDatasetTutorial.ipynb).
 
-# Road Damage Dataset 2019 (COMMING SOON, UNDER REVIEW)
+
+# Road Damage Dataset 2019
+
+## Citation
+
+
+## Abstract
+
 ## The structure of Road Damage Dataset 
 The structure of the Road Damage Dataset 2019 is the same as the previous one: Pascal VOC.
  
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
-- [trainedModels (--MB)](link)
+- trainedModels
+  - [Resnet(128MB)]()
+  - [Mobilenet(18MB)]()
 
-- [RoadDamageDataset_2019 (2.1GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDatasetV2.zip)
+- [RoadDamageDataset_2019 (2.1GB)]()
 
 ## Privacy matters
 Our dataset is openly accessible by the public. Therefore, considering issues with privacy, based on visual inspection, when a person's face or a car license plate are clearly reflected in the image, they are blurred out.
@@ -84,6 +96,3 @@ Our dataset is openly accessible by the public. Therefore, considering issues wi
 Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
 <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />
 
-
-If you have something to ask us about the dataset, please contact :
-`maedahi[at]iis.u-tokyo.ac.jp`
