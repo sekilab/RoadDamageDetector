@@ -11,10 +11,10 @@
 # Road Damage Dataset 2019
 
 ## Citation
-comming soon
+comming soon (in May)
 
 ## Abstract
-comming soon
+comming soon (in May)
 
 ## The structure of Road Damage Dataset 
 The structure of the Road Damage Dataset 2019 is the same as the previous one: Pascal VOC.
@@ -75,9 +75,9 @@ Annotated images are presented as the same format to [PASCAL VOC](http://host.ro
 
 ## Download Road Damage Dataset
 Please pay attention to the disk capacity when downloading.
-- [trainedModels (70MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/03_trainedMoldes/old/trainedModels.tar.gz)
+- [trainedModels (70MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/Japan/CACAIE2018/trainedModels.tar.gz)
 
-- [RoadDamageDataset_v1 (1.7GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/RoadDamageDataset.tar.gz)
+- [RoadDamageDataset_v1 (1.7GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/Japan/CACAIE2018/RoadDamageDataset.tar.gz)
 
 ## Dataset Tutorial
 We also created the tutorial of Road Damage Dataset.
