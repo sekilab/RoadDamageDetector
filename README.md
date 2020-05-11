@@ -8,6 +8,18 @@
 [2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
 
 
+# Road Damage Dataset for [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) as one of the [IEEE Bigdata Cup](http://bigdataieee.org/BigData2020/)
+
+- [train.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/train.tar.gz)
+  - `train.tar.gz` contains Japan/India/Czech images and annotations. The format of annotations is the same as pascalVOC.
+
+- [test1.tar.gz]()
+Rerease, May 15th.
+
+- [test2.tar.gz]()
+Release, Sept 10th.
+
+
 # Road Damage Dataset 2019
 
 ## Citation
