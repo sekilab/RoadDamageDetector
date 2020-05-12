@@ -1,12 +1,15 @@
 # RoadDamageDetector
 
-## News
+********
+
+# News
 [2020-4-25]: [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) will be held as one of the [IEEE Bigdata Cup](http://bigdataieee.org/BigData2020/). How about joining the data cup now? Exciting prizes await you!
 
 [2019-10-16]: Road Damage Dataset was awarded by the GIS Association of Japan. For more information, please check [here](http://www.gisa-japan.org/awards/recipients.html).
 
 [2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
 
+********
 
 # Road Damage Dataset for [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) as one of the [IEEE Bigdata Cup](http://bigdataieee.org/BigData2020/)
 
@@ -24,6 +27,8 @@ Coming soon
 
 ## Damage Categories to be considered
 {D00: Longitudinal Crack, D10: Transverse Crack, D20: Aligator Crack, D40: Pothole}
+
+********
 
 # Road Damage Dataset 2019
 
@@ -43,6 +48,8 @@ Please pay attention to the disk capacity when downloading.
   - [Mobilenet(18MB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/Japan/CACAIE2020/frozen_inference_graph_mobilenet.pb)
 
 - [RoadDamageDataset_2019 (2.4GB)](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/Japan/RDD2020_data.tar.gz)
+
+********
 
 # Road Damage Dataset 2018
 
@@ -106,10 +113,12 @@ In this tutorial, we will show you:
 
 Please check [RoadDamageDatasetTutorial.ipynb](https://github.com/sekilab/RoadDamageDetector/blob/master/RoadDamageDatasetTutorial.ipynb).
 
-## Privacy matters
+********
+
+# Privacy matters
 Our dataset is openly accessible by the public. Therefore, considering issues with privacy, based on visual inspection, when a person's face or a car license plate are clearly reflected in the image, they are blurred out.
 
-## License
+# License
 Images on this dataset are available under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The license and link to the legal document can be found next to every image on the service in the image information panel and contains the CC BY-SA 4.0 mark:
 <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />
 
