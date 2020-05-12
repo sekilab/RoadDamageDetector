@@ -11,7 +11,7 @@
 
 ********
 
-# Road Damage Dataset for [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) as one of the [IEEE Bigdata Cup](http://bigdataieee.org/BigData2020/)
+# Dataset for [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) 
 
 - [train.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/train.tar.gz)
   - `train.tar.gz` contains Japan/India/Czech images and annotations. The format of annotations is the same as pascalVOC.
