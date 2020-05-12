@@ -1,7 +1,7 @@
 # RoadDamageDetector
 
 ## News
-[2020-4-25]: [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) will be held as one of the [IEEE Bigdata Cup](http://bigdataieee.org/BigData2020/). Why not join the data cup!
+[2020-4-25]: [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) will be held as one of the [IEEE Bigdata Cup](http://bigdataieee.org/BigData2020/). How about joining the data cup now? Exciting prizes await you!
 
 [2019-10-16]: Road Damage Dataset was awarded by the GIS Association of Japan. For more information, please check [here](http://www.gisa-japan.org/awards/recipients.html).
 
@@ -14,19 +14,24 @@
   - `train.tar.gz` contains Japan/India/Czech images and annotations. The format of annotations is the same as pascalVOC.
 
 - [test1.tar.gz]()
-Rerease, May 15th.
+Release, May 15th.
 
 - [test2.tar.gz]()
 Release, Sept 10th.
 
+## Citation
+Coming soon
+
+## Damage Categories to be considered
+{D00: Longitudinal Crack, D10: Transverse Crack, D20: Aligator Crack, D40: Pothole}
 
 # Road Damage Dataset 2019
 
 ## Citation
-comming soon (in May)
+coming soon (in May)
 
 ## Abstract
-comming soon (in May)
+coming soon (in May)
 
 ## The structure of Road Damage Dataset 
 The structure of the Road Damage Dataset 2019 is the same as the previous one: Pascal VOC.
