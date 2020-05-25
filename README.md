@@ -18,6 +18,8 @@
 
 - [test1.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/test1.tar.gz)
 
+- [sampleSubmission.txt](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/sampleSubmission.txt)
+
 - [test2.tar.gz]()
 Release, Sept 10th.
 
