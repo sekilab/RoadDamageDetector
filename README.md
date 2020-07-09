@@ -34,10 +34,23 @@ Coming soon
 # Road Damage Dataset 2019
 
 ## Citation
-coming soon (in May)
+
+If you use or find out our dataset useful, please cite [our paper](https://doi.org/10.1111/mice.12561) in the journal of [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667):
+
+Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T., & Omata, H. Generative adversarial network for road damage detection. Computer‐Aided Civil and Infrastructure Engineering.
+
+
+@article{maedagenerative,
+  title={Generative adversarial network for road damage detection},
+  author={Maeda, Hiroya and Kashiyama, Takehiro and Sekimoto, Yoshihide and Seto, Toshikazu and Omata, Hiroshi},
+  journal={Computer-Aided Civil and Infrastructure Engineering},
+  publisher={Wiley Online Library}
+}
+
 
 ## Abstract
-coming soon (in May)
+Machine learning can produce promising results when sufficient training data are available; however, infrastructure inspections typically do not provide sufficient training data for road damage. Given the differences in the environment, the type of road damage and the degree of its progress can vary from structure to structure. The use of generative models, such as a generative adversarial network (GAN) or a variational autoencoder, makes it possible to generate a pseudoimage that cannot be distinguished from a real one. Combining a progressive growing GAN along with Poisson blending artificially generates road damage images that can be used as new training data to improve the accuracy of road damage detection. The addition of a synthesized road damage image to the training data improves the F‐measure by 5% and 2% when the number of original images is small and relatively large, respectively. All of the results and the new Road Damage Dataset 2019 are publicly available. 
+
 
 ## The structure of Road Damage Dataset 
 The structure of the Road Damage Dataset 2019 is the same as the previous one: Pascal VOC.
