@@ -3,6 +3,8 @@
 ********
 
 # News
+[2020-09-02]: The citation information and the article explaining the latest India-Japan-Czech (InJaCz) Road Damage Dataset, being used for [IEEE BigData Cup Challenge 2020](http://bigdataieee.org/BigData2020/), is now [available](https://arxiv.org/abs/2008.13101).
+
 [2020-4-25]: [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) will be held as one of the [IEEE Bigdata Cup](http://bigdataieee.org/BigData2020/). How about joining the data cup now? Exciting prizes await you!
 
 [2019-10-16]: Road Damage Dataset was awarded by the GIS Association of Japan. For more information, please check [here](http://www.gisa-japan.org/awards/recipients.html).
@@ -24,7 +26,18 @@
 Release, Sept 10th.
 
 ## Citation
-Coming soon
+The data collection methodology, study area and other information for the India-Japan-Czech dataset are provided in our research paper entitled [Transfer Learning-based Road Damage Detection for Multiple Countries](https://arxiv.org/abs/2008.13101). 
+
+If you use or find our dataset and/or article useful, please cite.
+
+@misc{arya2020transfer,
+    title={Transfer Learning-based Road Damage Detection for Multiple Countries},
+    author={Deeksha Arya and Hiroya Maeda and Sanjay Kumar Ghosh and Durga Toshniwal and Alexander Mraz and Takehiro Kashiyama and Yoshihide Sekimoto},
+    year={2020},
+    eprint={2008.13101},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 
 ## Damage Categories to be considered
 {D00: Longitudinal Crack, D10: Transverse Crack, D20: Aligator Crack, D40: Pothole}
