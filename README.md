@@ -25,7 +25,6 @@
 - [sampleSubmission.txt](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/sampleSubmission.txt)
 
 - [test2.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/test2.tar.gz)
-Release, Sept 10th.
 
 ## Citation
 The data collection methodology, study area and other information for the India-Japan-Czech dataset are provided in our research paper entitled [Transfer Learning-based Road Damage Detection for Multiple Countries](https://arxiv.org/abs/2008.13101). 
