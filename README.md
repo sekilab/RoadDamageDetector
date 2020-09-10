@@ -3,6 +3,8 @@
 ********
 
 # News
+[2020-09-10]: Test2 dataset for Global Road Damage Detection Challenge 2020 has been released!
+
 [2020-09-02]: The citation information and the article explaining the latest India-Japan-Czech (InJaCz) Road Damage Dataset, being used for [IEEE BigData Cup Challenge 2020](http://bigdataieee.org/BigData2020/), is now [available](https://arxiv.org/abs/2008.13101).
 
 [2020-4-25]: [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) will be held as one of the [IEEE Bigdata Cup](http://bigdataieee.org/BigData2020/). How about joining the data cup now? Exciting prizes await you!
@@ -22,7 +24,7 @@
 
 - [sampleSubmission.txt](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/sampleSubmission.txt)
 
-- [test2.tar.gz]()
+- [test2.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/test2.tar.gz)
 Release, Sept 10th.
 
 ## Citation
