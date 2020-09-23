@@ -3,6 +3,8 @@
 ********
 
 # News
+[2020-09-23]: [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) - The [link](https://forms.gle/GtYjDuix8vMPkc5C9) for submitting the source code has been enabled! 
+
 [2020-09-10]: Test2 dataset for Global Road Damage Detection Challenge 2020 has been released!
 
 [2020-09-02]: The citation information and the article explaining the latest India-Japan-Czech (InJaCz) Road Damage Dataset, being used for [IEEE BigData Cup Challenge 2020](http://bigdataieee.org/BigData2020/), is now [available](https://arxiv.org/abs/2008.13101).
@@ -27,9 +29,13 @@
 - [test2.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/test2.tar.gz)
 
 ## Citation
-The data collection methodology, study area and other information for the India-Japan-Czech dataset are provided in our research paper entitled [Transfer Learning-based Road Damage Detection for Multiple Countries](https://arxiv.org/abs/2008.13101). 
+The data collection methodology, study area and other information for the India-Japan-Czech dataset are provided in our research paper entitled [Transfer Learning-based Road Damage Detection for Multiple Countries](https://www.researchgate.net/publication/344012536_Transfer_Learning-based_Road_Damage_Detection_for_Multiple_Countries). 
+
+The dataset utilizes the RDD-2019 data introduced in [Generative adversarial network for road damage detection](https://www.researchgate.net/publication/341836638_Generative_adversarial_network_for_road_damage_detection).
 
 If you use or find our dataset and/or article useful, please cite.
+
+Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Mraz, A., Kashiyama, T., & Sekimoto, Y. (2020). Transfer Learning-based Road Damage Detection for Multiple Countries. arXiv preprint arXiv:2008.13101.
 
 @misc{arya2020transfer,
     title={Transfer Learning-based Road Damage Detection for Multiple Countries},
@@ -39,6 +45,18 @@ If you use or find our dataset and/or article useful, please cite.
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+
+and 
+
+Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T., & Omata, H. Generative adversarial network for road damage detection. Computer‐Aided Civil and Infrastructure Engineering.
+
+@article{maedagenerative,
+  title={Generative adversarial network for road damage detection},
+  author={Maeda, Hiroya and Kashiyama, Takehiro and Sekimoto, Yoshihide and Seto, Toshikazu and Omata, Hiroshi},
+  journal={Computer-Aided Civil and Infrastructure Engineering},
+  publisher={Wiley Online Library}
+}
+
 
 ## Damage Categories to be considered
 {D00: Longitudinal Crack, D10: Transverse Crack, D20: Aligator Crack, D40: Pothole}
