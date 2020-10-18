@@ -3,6 +3,10 @@
 ********
 
 # News
+[2020-10-18]: IEEE Big Data Cup - Global Road Damage Detection Challenge 2020 - Submissions for two new [leader-boards](https://rdd2020.sekilab.global/leaderboard/) have been enabled to support experiments involving the [India-Japan-Czech](https://www.researchgate.net/publication/344012536_Transfer_Learning-based_Road_Damage_Detection_for_Multiple_Countries) Road Damage data.
+
+[2020-10-6]: IEEE Big Data Cup - Global Road Damage Detection Challenge 2020 - The names of winners have been [anounced](https://rdd2020.sekilab.global/leaderboard/)!
+
 [2020-09-23]: [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) - The [link](https://forms.gle/GtYjDuix8vMPkc5C9) for submitting the source code has been enabled! 
 
 [2020-09-10]: Test2 dataset for Global Road Damage Detection Challenge 2020 has been released!
