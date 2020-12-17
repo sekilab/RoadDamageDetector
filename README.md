@@ -3,13 +3,15 @@
 ********
 
 # News
+[2020-12-14]: IEEE Big Data Cup - GRDDC 2020 culminated successfully! The paper [Global Road Damage Detection: State-of-the-art Solutions](https://www.researchgate.net/publication/345989816_Global_Road_Damage_Detection_State-of-the-art_Solutions) provides the details of the challenge. Follow the [project](https://www.researchgate.net/project/Global-Road-Damage-Detection) for further updates on the publications!
+
+[2020-12-10]: IEEE Big Data Cup - GRDDC 2020: The workshop is being conducted in association with the [IEEE International Conference on Big Data 2020](http://bigdataieee.org/BigData2020/BigDataCupChallenges.html)! Check out the recordings at [underline.io](https://underline.io/events/56/sessions) and the pictures [here](https://github.com/sekilab/RoadDamageDetector/upload/master/images)!
+
 [2020-10-18]: IEEE Big Data Cup - Global Road Damage Detection Challenge 2020 - Submissions for two new [leader-boards](https://rdd2020.sekilab.global/leaderboard/) have been enabled to support experiments involving the [India-Japan-Czech](https://www.researchgate.net/publication/344012536_Transfer_Learning-based_Road_Damage_Detection_for_Multiple_Countries) Road Damage data.
 
 [2020-10-6]: IEEE Big Data Cup - Global Road Damage Detection Challenge 2020 - The names of winners have been [anounced](https://rdd2020.sekilab.global/leaderboard/)!
 
 [2020-09-23]: [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) - The [link](https://forms.gle/GtYjDuix8vMPkc5C9) for submitting the source code has been enabled! 
-
-[2020-09-10]: Test2 dataset for Global Road Damage Detection Challenge 2020 has been released!
 
 [2020-09-02]: The citation information and the article explaining the latest India-Japan-Czech (InJaCz) Road Damage Dataset, being used for [IEEE BigData Cup Challenge 2020](http://bigdataieee.org/BigData2020/), is now [available](https://arxiv.org/abs/2008.13101).
 
@@ -21,8 +23,24 @@
 
 ********
 
-# Dataset for [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) 
+# [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) 
 
+## Publications
+The details of the Global Road Damage Detection Challenge (GRDDC) 2020, held as an IEEE Big Data Cup with a worldwide participation of 121 teams, are encapsulated in the paper [Global Road Damage Detection: State-of-the-art Solutions](https://www.researchgate.net/publication/345989816_Global_Road_Damage_Detection_State-of-the-art_Solutions). 
+
+Citation: 
+Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Omata, H., Kashiyama, T., & Sekimoto, Y. (2020). Global Road Damage Detection: State-of-the-art Solutions. arXiv preprint arXiv:2011.08740.
+
+@article{arya2020global,
+  title={Global Road Damage Detection: State-of-the-art Solutions},
+  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Omata, Hiroshi and Kashiyama, Takehiro and Sekimoto, Yoshihide},
+  journal={arXiv preprint arXiv:2011.08740},
+  year={2020}
+}
+
+Follow the [project](https://www.researchgate.net/project/Global-Road-Damage-Detection) for further updates on the publications!
+
+## Dataset for GRDDC 2020
 - [train.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/train.tar.gz)
   - `train.tar.gz` contains Japan/India/Czech images and annotations. The format of annotations is the same as pascalVOC.
 
@@ -32,7 +50,7 @@
 
 - [test2.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/test2.tar.gz)
 
-## Citation
+## Citation for the GRDDC (InJaCz) Dataset
 The data collection methodology, study area and other information for the India-Japan-Czech dataset are provided in our research paper entitled [Transfer Learning-based Road Damage Detection for Multiple Countries](https://www.researchgate.net/publication/344012536_Transfer_Learning-based_Road_Damage_Detection_for_Multiple_Countries). 
 
 The dataset utilizes the RDD-2019 data introduced in [Generative adversarial network for road damage detection](https://www.researchgate.net/publication/341836638_Generative_adversarial_network_for_road_damage_detection).
@@ -41,13 +59,11 @@ If you use or find our dataset and/or article useful, please cite.
 
 Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Mraz, A., Kashiyama, T., & Sekimoto, Y. (2020). Transfer Learning-based Road Damage Detection for Multiple Countries. arXiv preprint arXiv:2008.13101.
 
-@misc{arya2020transfer,
-    title={Transfer Learning-based Road Damage Detection for Multiple Countries},
-    author={Deeksha Arya and Hiroya Maeda and Sanjay Kumar Ghosh and Durga Toshniwal and Alexander Mraz and Takehiro Kashiyama and Yoshihide Sekimoto},
-    year={2020},
-    eprint={2008.13101},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{arya2020transfer,
+  title={Transfer learning-based road damage detection for multiple countries},
+  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Mraz, Alexander and Kashiyama, Takehiro and Sekimoto, Yoshihide},
+  journal={arXiv preprint arXiv:2008.13101},
+  year={2020}
 }
 
 and 
@@ -61,11 +77,10 @@ Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T., & Omata, H. Generative adversa
   publisher={Wiley Online Library}
 }
 
-
 ## Damage Categories to be considered
 {D00: Longitudinal Crack, D10: Transverse Crack, D20: Aligator Crack, D40: Pothole}
 
-********
+****************************
 
 # Road Damage Dataset 2019
 
@@ -74,7 +89,6 @@ Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T., & Omata, H. Generative adversa
 If you use or find out our dataset useful, please cite [our paper](https://doi.org/10.1111/mice.12561) in the journal of [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667):
 
 Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T., & Omata, H. Generative adversarial network for road damage detection. Computer‐Aided Civil and Infrastructure Engineering.
-
 
 @article{maedagenerative,
   title={Generative adversarial network for road damage detection},
