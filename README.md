@@ -5,7 +5,7 @@
 # News
 [2020-12-14]: IEEE Big Data Cup - GRDDC 2020 culminated successfully! The paper [Global Road Damage Detection: State-of-the-art Solutions](https://www.researchgate.net/publication/345989816_Global_Road_Damage_Detection_State-of-the-art_Solutions) provides the details of the challenge. Follow the [project](https://www.researchgate.net/project/Global-Road-Damage-Detection) for further updates on the publications!
 
-[2020-12-10]: IEEE Big Data Cup - GRDDC 2020: The workshop is being conducted in association with the [IEEE International Conference on Big Data 2020](http://bigdataieee.org/BigData2020/BigDataCupChallenges.html)! Check out the recordings at [underline.io](https://underline.io/events/56/sessions) and the pictures [here](https://github.com/sekilab/RoadDamageDetector/upload/master/images)!
+[2020-12-10]: IEEE Big Data Cup - GRDDC 2020: The workshop is being conducted in association with the [IEEE International Conference on Big Data 2020](http://bigdataieee.org/BigData2020/BigDataCupChallenges.html)! Check out the recordings at [underline.io](https://underline.io/events/56/sessions) and the pictures [here](https://github.com/sekilab/RoadDamageDetector/upload/master/images/GRDD2020.png)!
 
 [2020-10-18]: IEEE Big Data Cup - Global Road Damage Detection Challenge 2020 - Submissions for two new [leader-boards](https://rdd2020.sekilab.global/leaderboard/) have been enabled to support experiments involving the [India-Japan-Czech](https://www.researchgate.net/publication/344012536_Transfer_Learning-based_Road_Damage_Detection_for_Multiple_Countries) Road Damage data.
 
