@@ -27,6 +27,7 @@
 
 ## video
 Check out this video!
+
 [![Introduction Video](https://img.youtube.com/vi/8sh70wjn1aI/0.jpg)](https://youtu.be/8sh70wjn1aI "Introduction Video")
 
 ## Publications
