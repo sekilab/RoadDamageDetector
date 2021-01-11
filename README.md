@@ -25,6 +25,10 @@
 
 # [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) 
 
+## video
+Check out this video!
+[![Introduction Video](https://img.youtube.com/vi/8sh70wjn1aI/0.jpg)](https://youtu.be/8sh70wjn1aI "Introduction Video")
+
 ## Publications
 The details of the Global Road Damage Detection Challenge (GRDDC) 2020, held as an IEEE Big Data Cup with a worldwide participation of 121 teams, are encapsulated in the paper [Global Road Damage Detection: State-of-the-art Solutions](https://www.researchgate.net/publication/345989816_Global_Road_Damage_Detection_State-of-the-art_Solutions). 
 
