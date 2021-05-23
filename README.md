@@ -3,6 +3,8 @@
 ********
 
 # News
+[2021-05-23]: **Data Article for RDD2020**: The article providing the details of Road Damage Dataset 2020(RDD2020) accepted for publication in Data-in-Brief journal, can be accessed [here](https://www.sciencedirect.com/science/article/pii/S2352340921004170)!
+
 [2021-03-23]: IEEE Big Data Cup - GRDDC 2020: The proceedings for [2020 IEEE International Conference on Big Data, Atlanta, GA, USA](http://bigdataieee.org/BigData2020/BigDataCupChallenges.html) are available now! The published version of the paper summarizing GRDDC'2020 can be accessed [here](https://ieeexplore.ieee.org/document/9377790)!
 
 [2021-03-19]: [RDD2020 dataset](https://data.mendeley.com/datasets/5ty2wb6gvg/1) is now available at Mendeley in a citable and easy to share form!  
@@ -70,6 +72,9 @@ The dataset utilizes the RDD-2019 data introduced in [Generative adversarial net
 If you use or find our dataset and/or article useful, please cite the following:
 ____________________________________________________________
 [dataset] Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Omata, H., Kashiyama, T., Seto, T., Mraz, A., & Sekimoto, Y. (2021), “RDD2020: An Image Dataset for Smartphone-based Road Damage Detection and Classification”, Mendeley Data, V1, doi: 10.17632/5ty2wb6gvg.1
+____________________________________________________________
+**Corresponding Data Article:** 
+Arya, Deeksha, Hiroya Maeda, Sanjay Kumar Ghosh, Durga Toshniwal, and Yoshihide Sekimoto. "RDD2020: An annotated image dataset for Automatic Road Damage Detection using Deep Learning." Data in Brief (2021): 107133.
 ____________________________________________________________
 Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Mraz, A., Kashiyama, T., & Sekimoto, Y. (2020). Transfer Learning-based Road Damage Detection for Multiple Countries. arXiv preprint arXiv:2008.13101.
 
