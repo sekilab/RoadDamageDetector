@@ -3,7 +3,11 @@
 ********
 
 # News
-[2021-05-23]: **Data Article for RDD2020**: The article providing the details of Road Damage Dataset 2020(RDD2020) accepted for publication in Data-in-Brief journal, can be accessed [here](https://www.sciencedirect.com/science/article/pii/S2352340921004170)!
+[2021-09-27]: Our latest article entitled [Deep learning-based road damage detection and classification for multiple countries](https://doi.org/10.1016/j.autcon.2021.103935) published in the journal **Automation in Construction** can be accessed [here](https://authors.elsevier.com/a/1dkAu3IhXMpsjL) without any registration/sign-up till **October 31st, 2021**! 
+
+The article addresses automatic monitoring of road conditions for multiple countries and provides recommendations for reusing the Road Damage Detection data and models released by any country.
+
+[2021-05-23]: **Data Article for RDD2020**: The article providing the details of Road Damage Dataset 2020(RDD2020) published in Data-in-Brief journal, can be accessed [here](https://www.sciencedirect.com/science/article/pii/S2352340921004170)!
 
 [2021-03-23]: IEEE Big Data Cup - GRDDC 2020: The proceedings for [2020 IEEE International Conference on Big Data, Atlanta, GA, USA](http://bigdataieee.org/BigData2020/BigDataCupChallenges.html) are available now! The published version of the paper summarizing GRDDC'2020 can be accessed [here](https://ieeexplore.ieee.org/document/9377790)!
 
@@ -29,28 +33,18 @@
 
 ********
 
-# [Global Road Damage Detection Challenge 2020](https://rdd2020.sekilab.global/) 
+# [Global Road Damage Detection Challenge (GRDDC'2020)](https://rdd2020.sekilab.global/) 
 
-## video
-Check out this video!
+## Video
+Check out this video for details of GRDDC'2020 (Atlanta, GA, USA)!
 
 [![Introduction Video](https://img.youtube.com/vi/8sh70wjn1aI/0.jpg)](https://youtu.be/8sh70wjn1aI "Introduction Video")
 
 ## Publications
 The details of the Global Road Damage Detection Challenge (GRDDC) 2020, held as an IEEE Big Data Cup with a worldwide participation of 121 teams, are encapsulated in the paper [Global Road Damage Detection: State-of-the-art Solutions](https://www.researchgate.net/publication/350199109_Global_Road_Damage_Detection_State-of-the-art_Solutions). 
 
-Citation: 
+**Citation:** 
 Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Omata, H., Kashiyama, T., & Sekimoto, Y. (2020). Global Road Damage Detection: State-of-the-art Solutions. IEEE International Conference on Big Data (Big Data), Atlanta, GA, USA, 2020, pp. 5533-5539, doi: 10.1109/BigData50022.2020.9377790.
-
-@INPROCEEDINGS{9377790,
-  author={D. {Arya} and H. {Maeda} and S. {Kumar Ghosh} and D. {Toshniwal} and H. {Omata} and T. {Kashiyama} and Y. {Sekimoto}},
-  booktitle={2020 IEEE International Conference on Big Data (Big Data)}, 
-  title={Global Road Damage Detection: State-of-the-art Solutions}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={5533-5539},
-  doi={10.1109/BigData50022.2020.9377790}}
 
 Follow the [project](https://www.researchgate.net/project/Global-Road-Damage-Detection) for further updates on the publications!
 
@@ -65,34 +59,22 @@ Follow the [project](https://www.researchgate.net/project/Global-Road-Damage-Det
 - [test2.tar.gz](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/test2.tar.gz)
 
 ## Citation for the GRDDC (InJaCz) Dataset
-The data collection methodology, study area and other information for the India-Japan-Czech dataset are provided in our research paper entitled [Transfer Learning-based Road Damage Detection for Multiple Countries](https://www.researchgate.net/publication/344012536_Transfer_Learning-based_Road_Damage_Detection_for_Multiple_Countries). 
+The data collection methodology, study area and other information for the India-Japan-Czech dataset are provided in our research papers entitled [Deep learning-based road damage detection and classification for multiple countries](https://doi.org/10.1016/j.autcon.2021.103935), and 
+[RDD2020: An annotated image dataset for Automatic Road Damage Detection using Deep Learning](https://www.sciencedirect.com/science/article/pii/S2352340921004170)!
 
 The dataset utilizes the RDD-2019 data introduced in [Generative adversarial network for road damage detection](https://www.researchgate.net/publication/341836638_Generative_adversarial_network_for_road_damage_detection).
 
 If you use or find our dataset and/or article useful, please cite the following:
+
+1. **[Latest Research Article](https://doi.org/10.1016/j.autcon.2021.103935):** Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Mraz, A., Kashiyama, T., & Sekimoto, Y. (2021). Deep learning-based road damage detection and classification for multiple countries. Automation in Construction, 132, 103935. 10.1016/j.autcon.2021.103935.
+2. **[RDD-2020 Data Article](https://www.sciencedirect.com/science/article/pii/S2352340921004170):** Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., & Sekimoto, Y. (2021). RDD2020: An annotated image dataset for automatic road damage detection using deep learning. Data in brief, 36, 107133. 10.1016/j.dib.2021.107133.
+3. **[RDD-2019 Article](https://www.researchgate.net/publication/341836638_Generative_adversarial_network_for_road_damage_detection):** Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T. and Omata, H. (2020). Generative adversarial network for road damage detection. Computer‐Aided Civil and Infrastructure Engineering, 36(1), pp.47-60.
+4. **[GRDDC Summary Paper](https://www.researchgate.net/publication/350199109_Global_Road_Damage_Detection_State-of-the-art_Solutions?ev=project):** Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Omata, H., Kashiyama, T., & Sekimoto, Y. (2020). Global Road Damage Detection: State-of-the-art Solutions. IEEE International Conference on Big Data (Big Data), Atlanta, GA, USA, 2020, pp. 5533-5539, doi: 10.1109/BigData50022.2020.9377790.
+___________________________________________________
+[**dataset**] Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Omata, H., Kashiyama, T., Seto, T., Mraz, A., & Sekimoto, Y. (2021), “RDD2020: An Image Dataset for Smartphone-based Road Damage Detection and Classification”, Mendeley Data, V1, doi: 10.17632/5ty2wb6gvg.1
 ____________________________________________________________
-[dataset] Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Omata, H., Kashiyama, T., Seto, T., Mraz, A., & Sekimoto, Y. (2021), “RDD2020: An Image Dataset for Smartphone-based Road Damage Detection and Classification”, Mendeley Data, V1, doi: 10.17632/5ty2wb6gvg.1
-____________________________________________________________
-**Corresponding Data Article:** 
-Arya, Deeksha, Hiroya Maeda, Sanjay Kumar Ghosh, Durga Toshniwal, and Yoshihide Sekimoto. "RDD2020: An annotated image dataset for Automatic Road Damage Detection using Deep Learning." Data in Brief (2021): 107133.
-____________________________________________________________
+**arXiv Pre-print**: 
 Arya, D., Maeda, H., Ghosh, S. K., Toshniwal, D., Mraz, A., Kashiyama, T., & Sekimoto, Y. (2020). Transfer Learning-based Road Damage Detection for Multiple Countries. arXiv preprint arXiv:2008.13101.
-
-@article{arya2020transfer,
-  title={Transfer learning-based road damage detection for multiple countries},
-  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Mraz, Alexander and Kashiyama, Takehiro and Sekimoto, Yoshihide},
-  journal={arXiv preprint arXiv:2008.13101},
-  year={2020}
-}
-____________________________________________________________
-Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T., & Omata, H. Generative adversarial network for road damage detection. Computer‐Aided Civil and Infrastructure Engineering.
-
-@article{maedagenerative,
-  title={Generative adversarial network for road damage detection},
-  author={Maeda, Hiroya and Kashiyama, Takehiro and Sekimoto, Yoshihide and Seto, Toshikazu and Omata, Hiroshi},
-  journal={Computer-Aided Civil and Infrastructure Engineering},
-  publisher={Wiley Online Library}
-}
 
 ## Damage Categories to be considered
 {D00: Longitudinal Crack, D10: Transverse Crack, D20: Aligator Crack, D40: Pothole}
@@ -105,14 +87,7 @@ Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T., & Omata, H. Generative adversa
 
 If you use or find out our dataset useful, please cite [our paper](https://doi.org/10.1111/mice.12561) in the journal of [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667):
 
-Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T., & Omata, H. Generative adversarial network for road damage detection. Computer‐Aided Civil and Infrastructure Engineering.
-
-@article{maedagenerative,
-  title={Generative adversarial network for road damage detection},
-  author={Maeda, Hiroya and Kashiyama, Takehiro and Sekimoto, Yoshihide and Seto, Toshikazu and Omata, Hiroshi},
-  journal={Computer-Aided Civil and Infrastructure Engineering},
-  publisher={Wiley Online Library}
-}
+Maeda, H., Kashiyama, T., Sekimoto, Y., Seto, T. and Omata, H. (2020). Generative adversarial network for road damage detection. Computer‐Aided Civil and Infrastructure Engineering, 36(1), pp.47-60.
 
 
 ## Abstract
