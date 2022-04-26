@@ -3,6 +3,10 @@
 ********
 
 # News
+[2022-4-25]: Astonished with the Global Road Damage Detection Challenge (GRDDC'2020)?......................... 
+***[Stay tuned!](https://github.com/sekilab/RoadDamageDetector)***...................The GRDDC team is coming up with **another challenge (***CRDDC'2022***)** with exciting prizes and opportunities!
+
+
 [2021-09-27]: Our latest article entitled [Deep learning-based road damage detection and classification for multiple countries](https://doi.org/10.1016/j.autcon.2021.103935) published in the journal **Automation in Construction** can be accessed [here](https://authors.elsevier.com/a/1dkAu3IhXMpsjL) without any registration/sign-up till **October 31st, 2021**! 
 
 The article addresses automatic monitoring of road conditions for multiple countries and provides recommendations for reusing the Road Damage Detection data and models released by any country.
