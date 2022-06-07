@@ -3,6 +3,9 @@
 ********
 
 # News
+
+[2022-06-07]: The IEEE Big Data Cup **CRDDC'2022**(https://crddc2022.sekilab.global/) is now **open**! More details are available [here](https://www.researchgate.net/project/Global-Road-Damage-Detection/update/629f50ffc98bc742eb1e4cad?_iepl%5BviewId%5D=nrWUn50Rd2r0Pe9wPdpXS3hO&_iepl%5Bcontexts%5D%5B0%5D=projectUpdatesLog&_iepl%5BinteractionType%5D=projectUpdateDetailClickThrough).
+
 [2022-4-25]: Astonished with the Global Road Damage Detection Challenge (GRDDC'2020)?......................... 
 ***[Stay tuned!](https://github.com/sekilab/RoadDamageDetector)***...................The GRDDC team is coming up with **another challenge (***CRDDC'2022***)** with exciting prizes and opportunities!
 
