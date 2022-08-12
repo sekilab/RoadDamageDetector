@@ -3,6 +3,10 @@
 ********
 
 # News
+[2022-08-11]: The [data]( https://crddc2022.sekilab.global/data/) for **CRDDC'2022** has been released!
+
+[2022-08-04]: The [winners](https://crddc2022.sekilab.global/leaderboard/) for **CRDDC - Data Contribution phase** have been announced!
+
 [2022-07-04]: The deadline for **CRDDC Phase 1** submissions has been extended to **July 20, 2022**!..............***[Register here](https://crddc2022.sekilab.global/accounts/login/)***!
 
 
@@ -12,7 +16,7 @@
 ***[Stay tuned!](https://github.com/sekilab/RoadDamageDetector)***...................The GRDDC team is coming up with **another challenge (***CRDDC'2022***)** with exciting prizes and opportunities!
 
 
-[2021-09-27]: Our latest article entitled [Deep learning-based road damage detection and classification for multiple countries](https://doi.org/10.1016/j.autcon.2021.103935) published in the journal **Automation in Construction** can be accessed [here](https://authors.elsevier.com/a/1dkAu3IhXMpsjL) without any registration/sign-up till **October 31st, 2021**! 
+[2021-09-27]: Check out our latest article entitled [Deep learning-based road damage detection and classification for multiple countries](https://doi.org/10.1016/j.autcon.2021.103935) published in the journal **Automation in Construction**! 
 
 The article addresses automatic monitoring of road conditions for multiple countries and provides recommendations for reusing the Road Damage Detection data and models released by any country.
 
@@ -39,6 +43,60 @@ The article addresses automatic monitoring of road conditions for multiple count
 [2019-10-16]: Road Damage Dataset was awarded by the GIS Association of Japan. For more information, please check [here](http://www.gisa-japan.org/awards/recipients.html).
 
 [2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
+
+********
+# [Crowdsensing-based Road Damage Detection Challenge (CRDDC'2022)](https://crddc2022.sekilab.global/) 
+
+## Dataset
+
+- [RDD2022.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/RDD2022.zip)
+  - `RDD2022.zip` contains train and test data from six countries: **Japan,  India, Czech Republic, Norway, United States, and China.** 
+  - Images (.jpg) and annotations (.xml) are provided for the train set. The format of annotations is the same as pascalVOC. 
+  - Only images are provided for test data.  
+
+- Supplementary files related to the RDD2020 data and CRDDC submissions:
+    -  [Directory_Structure_CRDDC_RDD2022.txt](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Directory_Structure_CRDDC_RDD2022.txt)
+
+    - [File_List_CRDDC_RDD2022.txt](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/File_List_CRDDC_RDD2022.txt)
+
+    - [label_map.pbtxt](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/label_map.pbtxt)
+
+    - [sampleSubmission_covering_India_Japan_and_Czech.txt](https://mycityreport.s3-ap-northeast-1.amazonaws.com/02_RoadDamageDataset/public_data/IEEE_bigdata_RDD2020/sampleSubmission.txt)
+
+- Links to download Country-specific data: 
+    - [RDD2022_Japan.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_Japan.zip) (1022.9 MB - train and test)
+    - [RDD2022_India.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_India.zip) (502.3 MB - train and test)
+    - [RDD2022_Czech.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_Czech.zip)  (245.2 MB - train and test)
+    - [RDD2022_Norway.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_Norway.zip)  (9.9 GB - train and test)
+    - [RDD2022_United_States.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_United_States.zip)  (423.8 MB - train and test)
+    - [RDD2022_China_MotorBike.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_China_MotorBike.zip)  (183.1 MB - train and test)
+    - [RDD2022_China_Drone.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_China_Drone.zip)  (152.8 MB - only train)
+
+
+## Citations
+
+```csv
+@article{arya2021deep,
+  title={Deep learning-based road damage detection and classification for multiple countries},
+  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Mraz, Alexander and Kashiyama, Takehiro and Sekimoto, Yoshihide},
+  journal={Automation in Construction},
+  volume={132},
+  pages={103935},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@inproceedings{arya2020global,
+  title={Global road damage detection: State-of-the-art solutions},
+  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Omata, Hiroshi and Kashiyama, Takehiro and Sekimoto, Yoshihide},
+  booktitle={2020 IEEE International Conference on Big Data (Big Data)},
+  pages={5533--5539},
+  year={2020},
+  organization={IEEE}
+}
+
+```
+
 
 ********
 
