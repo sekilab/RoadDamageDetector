@@ -3,6 +3,8 @@
 ********
 
 # News
+[2022-08-30]: **CRDDC'2022**: The **submission link** for phase 3 has been enabled! Users need to [LogIn](https://crddc2022.sekilab.global/accounts/login/) to access!
+
 [2022-08-11]: The [data]( https://crddc2022.sekilab.global/data/) for **CRDDC'2022** has been released!
 
 [2022-08-04]: The [winners](https://crddc2022.sekilab.global/leaderboard/) for **CRDDC - Data Contribution phase** have been announced!
@@ -51,7 +53,7 @@ The article addresses automatic monitoring of road conditions for multiple count
 
 - [RDD2022.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/RDD2022.zip)
   - `RDD2022.zip` contains train and test data from six countries: **Japan,  India, Czech Republic, Norway, United States, and China.** 
-  - Images (.jpg) and annotations (.xml) are provided for the train set. The format of annotations is the same as pascalVOC. 
+  - Images (.jpg) and annotations (.xml) are provided for the train set. The format of annotations is the same as pascalVOC.
   - Only images are provided for test data.  
 
 - Supplementary files related to the RDD2020 data and CRDDC submissions:
@@ -72,6 +74,8 @@ The article addresses automatic monitoring of road conditions for multiple count
     - [RDD2022_China_MotorBike.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_China_MotorBike.zip)  (183.1 MB - train and test)
     - [RDD2022_China_Drone.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_China_Drone.zip)  (152.8 MB - only train)
 
+## Damage Categories to be considered
+{D00: Longitudinal Crack, D10: Transverse Crack, D20: Aligator Crack, D40: Pothole}
 
 ## Citations
 
