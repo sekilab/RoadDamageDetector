@@ -3,7 +3,14 @@
 ********
 
 # News
-[2022-08-30]: **CRDDC'2022**: The **submission link** for phase 3 has been enabled! Users need to [LogIn](https://crddc2022.sekilab.global/accounts/login/) to access!
+
+[2022-09-29]: **Data Article for RDD2022**: The article for data released through CRDDC'2022 can be accessed [here](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection)!
+
+[2022-09-29]: **CRDDC'2022**: Deadline for Phase 3 and 4 has been extended! Submissions will be accepted till **Oct 5, 2022**.
+
+[2022-09-29]: **CRDDC'2022**: The **submission links** for phase 4 (Report and Source Code) have been [enabled](https://crddc2022.sekilab.global/submissions/)!
+
+[2022-08-30]: **CRDDC'2022**: The submission link for phase 3 has been enabled! Users need to [LogIn](https://crddc2022.sekilab.global/accounts/login/) to access!
 
 [2022-08-11]: The [data]( https://crddc2022.sekilab.global/data/) for **CRDDC'2022** has been released!
 
@@ -50,6 +57,7 @@ The article addresses automatic monitoring of road conditions for multiple count
 # [Crowdsensing-based Road Damage Detection Challenge (CRDDC'2022)](https://crddc2022.sekilab.global/) 
 
 ## Dataset
+- The [article](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection) providing detailed statistics and other information for data released through CRDDC'2022 can be accessed [here](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection)!
 
 - [RDD2022.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/RDD2022.zip)
   - `RDD2022.zip` contains train and test data from six countries: **Japan,  India, Czech Republic, Norway, United States, and China.** 
@@ -80,6 +88,13 @@ The article addresses automatic monitoring of road conditions for multiple count
 ## Citations
 
 ```csv
+@article{arya2022rdd2022,
+  title={RDD2022: A multi-national image dataset for automatic Road Damage Detection},
+  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Sekimoto, Yoshihide},
+  journal={arXiv preprint arXiv:2209.08538},
+  year={2022}
+}
+
 @article{arya2021deep,
   title={Deep learning-based road damage detection and classification for multiple countries},
   author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Mraz, Alexander and Kashiyama, Takehiro and Sekimoto, Yoshihide},
@@ -89,6 +104,15 @@ The article addresses automatic monitoring of road conditions for multiple count
   year={2021},
   publisher={Elsevier}
 }
+
+@article{arya2021rdd2020,
+  title={RDD2020: An annotated image dataset for automatic road damage detection using deep learning},
+  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Sekimoto, Yoshihide},
+  journal={Data in brief},
+  volume={36},
+  pages={107133},
+  year={2021},
+  publisher={Elsevier}
 
 @inproceedings{arya2020global,
   title={Global road damage detection: State-of-the-art solutions},
