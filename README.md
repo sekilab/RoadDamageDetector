@@ -3,6 +3,9 @@
 ********
 
 # News
+[2023-09-29]: **CRDDC'2022 Winners and Proposed Solutions**: Check out the CRDDC article summarizing details of winners and proposed solutions [here](https://www.researchgate.net/publication/367456896_Crowdsensing-based_Road_Damage_Detection_Challenge_CRDDC'2022)!
+
+[2022-12-18]: **CRDDC'2022 culminated successfully!** New leaderboards available on the website (https://crddc2022.sekilab.global/leaderboard/) can still be utilized to perform more experiments. 
 
 [2022-09-29]: **Data Article for RDD2022**: The article for data released through CRDDC'2022 can be accessed [here](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection)!
 
@@ -59,6 +62,8 @@ The article addresses automatic monitoring of road conditions for multiple count
 ## Dataset
 - The [article](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection) providing detailed statistics and other information for data released through CRDDC'2022 can be accessed [here](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection)!
 
+- The RDD2022 data released through CRDDC is now also available on [FigShare Repository](https://figshare.com/articles/dataset/RDD2022_-_The_multi-national_Road_Damage_Dataset_released_through_CRDDC_2022/21431547)! Kindly cite if you are using the data or the information.
+
 - [RDD2022.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/RDD2022.zip)
   - `RDD2022.zip` contains train and test data from six countries: **Japan,  India, Czech Republic, Norway, United States, and China.** 
   - Images (.jpg) and annotations (.xml) are provided for the train set. The format of annotations is the same as pascalVOC.
@@ -81,13 +86,22 @@ The article addresses automatic monitoring of road conditions for multiple count
     - [RDD2022_United_States.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_United_States.zip)  (423.8 MB - train and test)
     - [RDD2022_China_MotorBike.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_China_MotorBike.zip)  (183.1 MB - train and test)
     - [RDD2022_China_Drone.zip](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_China_Drone.zip)  (152.8 MB - only train)
-
+ 
 ## Damage Categories to be considered
 {D00: Longitudinal Crack, D10: Transverse Crack, D20: Aligator Crack, D40: Pothole}
 
 ## Citations
 
 ```csv
+@inproceedings{arya2022crowdsensing,
+  title={Crowdsensing-based Road Damage Detection Challenge (CRDDC’2022)},
+  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Omata, Hiroshi and Kashiyama, Takehiro and Sekimoto, Yoshihide},
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)},
+  pages={6378--6386},
+  year={2022},
+  organization={IEEE}
+}
+
 @article{arya2022rdd2022,
   title={RDD2022: A multi-national image dataset for automatic Road Damage Detection},
   author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Sekimoto, Yoshihide},
