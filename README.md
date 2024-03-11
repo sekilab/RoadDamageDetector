@@ -3,9 +3,11 @@
 ********
 
 # News
+[2024-03-11]: **CRDDC'2022 Detailed Review**: Curious about -- What can we learn from Cross-country collaborations and Winning Strategies? Check out our latest article [From global challenges to local solutions: A review of cross-country collaborations and winning strategies in road damage detection](https://doi.org/10.1016/j.aei.2024.102388) providing complete details. Use this [link](https://authors.elsevier.com/a/1ijMG5FA1k9d5h) for free access till April 26, 2024!
+
 [2023-09-29]: **CRDDC'2022 Winners and Proposed Solutions**: Check out the CRDDC article summarizing details of winners and proposed solutions [here](https://www.researchgate.net/publication/367456896_Crowdsensing-based_Road_Damage_Detection_Challenge_CRDDC'2022)!
 
-[2022-12-18]: **CRDDC'2022 culminated successfully!** New leaderboards available on the website (https://crddc2022.sekilab.global/leaderboard/) can still be utilized to perform more experiments. 
+[2022-12-18]: **CRDDC'2022 culminated successfully!** [New leaderboards available on the website](https://crddc2022.sekilab.global/leaderboard/) can still be utilized to perform more experiments. 
 
 [2022-09-29]: **Data Article for RDD2022**: The article for data released through CRDDC'2022 can be accessed [here](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection)!
 
@@ -21,12 +23,10 @@
 
 [2022-07-04]: The deadline for **CRDDC Phase 1** submissions has been extended to **July 20, 2022**!..............***[Register here](https://crddc2022.sekilab.global/accounts/login/)***!
 
-
 [2022-06-07]: The IEEE Big Data Cup **CRDDC'2022**(https://crddc2022.sekilab.global/) is now **open**! More details are available [here](https://www.researchgate.net/project/Global-Road-Damage-Detection/update/629f50ffc98bc742eb1e4cad?_iepl%5BviewId%5D=nrWUn50Rd2r0Pe9wPdpXS3hO&_iepl%5Bcontexts%5D%5B0%5D=projectUpdatesLog&_iepl%5BinteractionType%5D=projectUpdateDetailClickThrough).
 
 [2022-4-25]: Astonished with the Global Road Damage Detection Challenge (GRDDC'2020)?......................... 
 ***[Stay tuned!](https://github.com/sekilab/RoadDamageDetector)***...................The GRDDC team is coming up with **another challenge (***CRDDC'2022***)** with exciting prizes and opportunities!
-
 
 [2021-09-27]: Check out our latest article entitled [Deep learning-based road damage detection and classification for multiple countries](https://doi.org/10.1016/j.autcon.2021.103935) published in the journal **Automation in Construction**! 
 
@@ -58,6 +58,11 @@ The article addresses automatic monitoring of road conditions for multiple count
 
 ********
 # [Crowdsensing-based Road Damage Detection Challenge (CRDDC'2022)](https://crddc2022.sekilab.global/) 
+## Publications
+ - Detailed Review of winning solutions (2024) - [From global challenges to local solutions: A review of cross-country collaborations and winning strategies in road damage detection](https://doi.org/10.1016/j.aei.2024.102388)
+ - Summary Paper (Winners, tasks, Procedures) - [Crowdsensing-based Road Damage Detection Challenge (CRDDC’2022)](https://www.researchgate.net/publication/367456896_Crowdsensing-based_Road_Damage_Detection_Challenge_CRDDC'2022)
+ - Data Article [RDD2022: A multi-national image dataset for automatic Road Damage Detection
+](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection)
 
 ## Dataset
 - The [article](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection) providing detailed statistics and other information for data released through CRDDC'2022 can be accessed [here](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection)!
@@ -93,6 +98,16 @@ The article addresses automatic monitoring of road conditions for multiple count
 ## Citations
 
 ```csv
+@article{2024_ARYA_CRDDC_review,
+title = {From global challenges to local solutions: A review of cross-country collaborations and winning strategies in road damage detection},
+author = {Deeksha Arya and Hiroya Maeda and Yoshihide Sekimoto},
+journal = {Advanced Engineering Informatics},
+volume = {60},
+pages = {102388},
+year = {2024},
+doi = {https://doi.org/10.1016/j.aei.2024.102388},
+}
+
 @inproceedings{arya2022crowdsensing,
   title={Crowdsensing-based Road Damage Detection Challenge (CRDDC’2022)},
   author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Omata, Hiroshi and Kashiyama, Takehiro and Sekimoto, Yoshihide},
