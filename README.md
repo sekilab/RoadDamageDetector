@@ -3,6 +3,8 @@
 ********
 
 # News
+[2024-05-15]: **ORDDC'2024 - Announcement**: Following the success of GRDDC'2020 and CRDDC'2022, another BigData Cup in the form of [road damage detection challenge, ORDDC'2024](https://orddc2024.sekilab.global/), is open now! Associated conference: IEEE BigData'2024. Venue: Washington, DC, USA!
+
 [2024-03-11]: **CRDDC'2022 Detailed Review**: Curious about -- What can we learn from Cross-country collaborations and Winning Strategies? Check out our latest article [From global challenges to local solutions: A review of cross-country collaborations and winning strategies in road damage detection](https://doi.org/10.1016/j.aei.2024.102388) providing complete details. Use this [link](https://authors.elsevier.com/a/1ijMG5FA1k9d5h) for free access till April 26, 2024!
 
 [2023-09-29]: **CRDDC'2022 Winners and Proposed Solutions**: Check out the CRDDC article summarizing details of winners and proposed solutions [here](https://www.researchgate.net/publication/367456896_Crowdsensing-based_Road_Damage_Detection_Challenge_CRDDC'2022)!
