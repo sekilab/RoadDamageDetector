@@ -59,10 +59,40 @@ The article addresses automatic monitoring of road conditions for multiple count
 [2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
 
 ********
+# [Optimized Road Damage Detection Challenge (ORDDC'2024)](https://orddc2024.sekilab.global/) 
+## Publication
+ - Summary Paper (Tasks, Winning Solutions, Top Contributors) - [ORDDC’2024: State of the art Solutions for Optimized Road Damage Detection](https://www.researchgate.net/publication/388092879_ORDDC'2024_State_of_the_art_Solutions_for_Optimized_Road_Damage_Detection)
+
+## Citation
+
+```csv
+@inproceedings{arya2024orddc,
+  title={Orddc’2024: State of the art solutions for optimized road damage detection},
+  author={Arya, Deeksha and Omata, Hiroshi and Maeda, Hiroya and Sekimoto, Yoshihide},
+  booktitle={2024 IEEE International Conference on Big Data (BigData)},
+  pages={8430--8438},
+  year={2024},
+  organization={IEEE},
+  doi = {https://doi.org/10.1109/BigData62323.2024.10825254},
+}
+
+@article{arya2024rdd2022,
+  title={RDD2022: A multi-national image dataset for automatic road damage detection},
+  author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Sekimoto, Yoshihide},
+  journal={Geoscience Data Journal},
+  volume={11},
+  number={4},
+  pages={846--862},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
+
+********
 # [Crowdsensing-based Road Damage Detection Challenge (CRDDC'2022)](https://crddc2022.sekilab.global/) 
 ## Publications
  - Detailed Review of winning solutions (2024) - [From global challenges to local solutions: A review of cross-country collaborations and winning strategies in road damage detection](https://doi.org/10.1016/j.aei.2024.102388)
- - Summary Paper (Winners, tasks, Procedures) - [Crowdsensing-based Road Damage Detection Challenge (CRDDC’2022)](https://www.researchgate.net/publication/367456896_Crowdsensing-based_Road_Damage_Detection_Challenge_CRDDC'2022)
+ - Summary Paper (Tasks, Procedures, Top Contributors) - [Crowdsensing-based Road Damage Detection Challenge (CRDDC’2022)](https://www.researchgate.net/publication/367456896_Crowdsensing-based_Road_Damage_Detection_Challenge_CRDDC'2022)
  - Data Article [RDD2022: A multi-national image dataset for automatic Road Damage Detection
 ](https://www.researchgate.net/publication/363668453_RDD2022_A_multi-national_image_dataset_for_automatic_Road_Damage_Detection)
 
@@ -119,11 +149,15 @@ doi = {https://doi.org/10.1016/j.aei.2024.102388},
   organization={IEEE}
 }
 
-@article{arya2022rdd2022,
-  title={RDD2022: A multi-national image dataset for automatic Road Damage Detection},
+@article{arya2024rdd2022,
+  title={RDD2022: A multi-national image dataset for automatic road damage detection},
   author={Arya, Deeksha and Maeda, Hiroya and Ghosh, Sanjay Kumar and Toshniwal, Durga and Sekimoto, Yoshihide},
-  journal={arXiv preprint arXiv:2209.08538},
-  year={2022}
+  journal={Geoscience Data Journal},
+  volume={11},
+  number={4},
+  pages={846--862},
+  year={2024},
+  publisher={Wiley Online Library}
 }
 
 @article{arya2021deep,
