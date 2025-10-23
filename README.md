@@ -70,8 +70,11 @@ The article addresses automatic monitoring of road conditions for multiple count
 
 The organizers reflect on how a multi-year, multi-country benchmark aligned AI research in road damage detection with practical and regional constraints, steering it towards deployment relevance.
 
+<img width="685" height="656" alt="image" src="https://github.com/user-attachments/assets/59e47a67-620e-465c-8866-82e11a7cc363" />
+
 ## Citation
 Arya, Deeksha, Hiroya Maeda, and Yoshihide Sekimoto. "Insights from the Road Damage Detection Challenge Series (2018–2024)." Nature Machine Intelligence (2025): 1-2.
+
 
 
 ********
