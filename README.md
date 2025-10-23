@@ -3,6 +3,8 @@
 ********
 
 # News
+[2025-10-23]: **Latest Publication (RDDC series)**: The Road Damage Detection Challenge Series (Big Data Cups) - 2018 to 2024, has been featured by the Nature Machine Intelligence journal (Impact Factor: 23.9). Check out the full story [here](https://www.researchgate.net/publication/396494492_Insights_from_the_Road_Damage_Detection_Challenge_Series_2018-2024)!
+
 [2025-01-25]: **ORDDC'2024 - Summary**: The IEEE Big Data Cup, Optimized Road Damage Detection Challenge (ORDDC'2024) culminated successfully. Check out the ORDDC article summarizing details of winners and proposed solutions [here](https://www.researchgate.net/publication/388092879_ORDDC'2024_State_of_the_art_Solutions_for_Optimized_Road_Damage_Detection)!
 
 [2024-05-15]: **ORDDC'2024 - Announcement**: Following the success of GRDDC'2020 and CRDDC'2022, another BigData Cup in the form of [road damage detection challenge, ORDDC'2024](https://orddc2024.sekilab.global/), is open now! Associated conference: IEEE BigData'2024. Venue: Washington, DC, USA!
@@ -59,6 +61,18 @@ The article addresses automatic monitoring of road conditions for multiple count
 [2019-10-16]: Road Damage Dataset was awarded by the GIS Association of Japan. For more information, please check [here](http://www.gisa-japan.org/awards/recipients.html).
 
 [2018-12-10]: Road damage detection and classification challenge (one of the IEEE Bigdata Cup Challenge) was held in Seattle. 59 teams participated from 14 countries. For more information, please check [here](https://bdc2018.mycityreport.net/)!
+
+********
+# [Research Article on Road Damage Detection Challenge Series (2018-2024)](https://www.nature.com/articles/s42256-025-01132-5) 
+
+## Publication
+[Insights from the Road Damage Detection Challenge Series (2018–2024)](https://www.researchgate.net/publication/396494492_Insights_from_the_Road_Damage_Detection_Challenge_Series_2018-2024)
+
+The organizers reflect on how a multi-year, multi-country benchmark aligned AI research in road damage detection with practical and regional constraints, steering it towards deployment relevance.
+
+## Citation
+Arya, Deeksha, Hiroya Maeda, and Yoshihide Sekimoto. "Insights from the Road Damage Detection Challenge Series (2018–2024)." Nature Machine Intelligence (2025): 1-2.
+
 
 ********
 # [Optimized Road Damage Detection Challenge (ORDDC'2024)](https://orddc2024.sekilab.global/) 
