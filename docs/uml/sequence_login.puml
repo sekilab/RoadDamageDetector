@@ -1,0 +1,12 @@
+
+@startuml sequence_login
+actor User
+participant "LoginForm" as Form
+participant "AuthService" as Auth
+participant "Dashboard" as Dashboard
+
+User -> Form : enter credentials
+Form -> Auth : validate(username, password)
+Auth --> Form : success/failure
+Form -> Dashboard : redirect if success
+@enduml

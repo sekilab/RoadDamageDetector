@@ -1,0 +1,13 @@
+Repositori asli RoadDamageDetector menggunakan lisensi MIT, yang bersifat permisif dan terbuka.
+
+Perubahan dan pengembangan fitur yang saya lakukan:
+- Menambahkan usability study (SUS)
+- Membuat pengujian otomatis dengan Selenium
+- Hosting aplikasi di Codespaces untuk pengujian
+
+Lisensi MIT tetap kompatibel dengan semua perubahan tersebut, karena:
+- Tidak ada pembatasan dalam pengubahan dan distribusi
+- Saya tetap menyertakan file LICENSE asli dan mencantumkan sumber
+
+Kesimpulan:
+Tidak ada konflik lisensi. Proyek hasil pengembangan tetap etis dan sesuai dengan syarat lisensi MIT.

@@ -1,0 +1,112 @@
+{
+  "id": "blackbox_test",
+  "version": "2.0",
+  "name": "blackbox_test",
+  "url": "http://localhost:5000",
+  "tests": [
+    {
+      "id": "login-test",
+      "name": "Login Test",
+      "commands": [
+        {
+          "id": "1",
+          "command": "open",
+          "target": "/login",
+          "value": ""
+        },
+        {
+          "id": "2",
+          "command": "type",
+          "target": "id=username",
+          "value": "testuser"
+        },
+        {
+          "id": "3",
+          "command": "type",
+          "target": "id=password",
+          "value": "password"
+        },
+        {
+          "id": "4",
+          "command": "click",
+          "target": "id=submit",
+          "value": ""
+        },
+        {
+          "id": "5",
+          "command": "assertTitle",
+          "target": "Dashboard",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "add-data-test",
+      "name": "Add Damage Report",
+      "commands": [
+        {
+          "id": "6",
+          "command": "open",
+          "target": "/add",
+          "value": ""
+        },
+        {
+          "id": "7",
+          "command": "type",
+          "target": "id=location",
+          "value": "Jl. Merdeka"
+        },
+        {
+          "id": "8",
+          "command": "type",
+          "target": "id=description",
+          "value": "Lubang besar"
+        },
+        {
+          "id": "9",
+          "command": "click",
+          "target": "id=submit",
+          "value": ""
+        },
+        {
+          "id": "10",
+          "command": "assertText",
+          "target": "id=message",
+          "value": "Laporan berhasil disimpan"
+        }
+      ]
+    },
+    {
+      "id": "logout-test",
+      "name": "Logout Test",
+      "commands": [
+        {
+          "id": "11",
+          "command": "click",
+          "target": "id=logout",
+          "value": ""
+        },
+        {
+          "id": "12",
+          "command": "assertTitle",
+          "target": "Login",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "suites": [
+    {
+      "id": "suite-1",
+      "name": "Main Test Suite",
+      "persistSession": true,
+      "parallel": false,
+      "timeout": 300,
+      "tests": [
+        "login-test",
+        "add-data-test",
+        "logout-test"
+      ]
+    }
+  ]
+}

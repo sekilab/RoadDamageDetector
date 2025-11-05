@@ -1,0 +1,13 @@
+
+@startuml sequence_create_item
+actor Admin
+participant "ItemForm" as Form
+participant "ItemService" as Service
+participant "Database" as DB
+
+Admin -> Form : fill item details
+Form -> Service : submit item
+Service -> DB : save(item)
+DB --> Service : ack
+Service --> Form : success
+@enduml

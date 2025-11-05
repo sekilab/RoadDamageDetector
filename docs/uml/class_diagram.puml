@@ -1,0 +1,14 @@
+
+@startuml class_diagram
+class User {
+  -username: str
+  -password: str
+  +login(): bool
+}
+
+class AuthService {
+  +validate(username: str, password: str): bool
+}
+
+User --> AuthService : uses
+@enduml
