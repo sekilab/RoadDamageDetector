@@ -1,6 +1,5 @@
 # RoadDamageDetector
-
-********
+📁 Dokumentasi UML tersedia di folder `docs/uml`
 
 # News
 [2025-10-23]: **Latest Publication (RDDC series)**: The Road Damage Detection Challenge Series (Big Data Cups) - 2018 to 2024, has been featured by the Nature Machine Intelligence journal (Impact Factor: 23.9). Check out the full story [here](https://www.researchgate.net/publication/396494492_Insights_from_the_Road_Damage_Detection_Challenge_Series_2018-2024)!
