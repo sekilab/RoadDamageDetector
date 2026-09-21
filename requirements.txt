@@ -1,0 +1,17 @@
+# RoadDamageDetector compatibility stack
+# This repo is based on the older TensorFlow Object Detection API.
+# Use a Python 3.7/3.8 environment and TensorFlow 1.x for best compatibility.
+
+numpy<2.0
+pandas
+opencv-python
+Pillow
+lxml
+matplotlib
+protobuf<4
+six
+absl-py
+jupyter
+
+# Recommended version for this project:
+tensorflow==1.15.0
